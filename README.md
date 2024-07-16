@@ -8,17 +8,25 @@ This repository includes the code and SQL queries for the Consumer Goods domain 
 
 
 SQL FILES :
+
 The SQL queries for each of the ten ad hoc requests are located in the SQL files. These queries are crafted to extract and manipulate the necessary data to address the specific questions.
 
+
 PROJECT PRESENTATION FILE :
+
 This PowerPoint file contains the presentation for this project.
+
 
 Skiils 
 
 SQL Query Writing: Utilizing CTEs, ranking functions, joins, date functions, subqueries, numeric functions, and more.
+
 Data Extraction and Transformation
+
 Data Analysis and Interpretation
+
 Report Generation
+
 Problem Solving and Decision Making
 
 
